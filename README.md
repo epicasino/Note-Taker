@@ -6,8 +6,6 @@
 - Built using JavaScript, with NodeJS as the Server Environment and Express.js as the Web Framework.
 - Working with a web framework to fetch data from a set database has furthered my knowledge in building scalable, interactive, and responsive Web Applications.
 
-## Table of Contents (Optional)
-
 ## Installation
 
 [**Live deployment from Heroku- Access by clicking here.**](https://note-taker-challenge-11-ucsd-53f90d47f2b1.herokuapp.com/)
